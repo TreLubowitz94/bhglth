@@ -1,0 +1,21 @@
+{
+  "name": "keep",
+  "version": "1.0.0",
+  "description": "keep",
+  "main": "index.js",
+  "author": "",
+  "repository": "",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "node-cron": "^2.0.1",
+    "moment-timezone": "latest"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
