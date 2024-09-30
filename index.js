@@ -6,16 +6,16 @@ const port = process.env.PORT || 7860;
 
 // 添加24小时是不间断访问的url数组
 const webpages = [
-  'https://materialistic-lead-quartz.glitch.me',   //
-  'https://south-skinny-banana.glitch.me',    //
-  'https://longhaired-loud-utahceratops.glitch.me',    //
-  'https://scratched-neon-thunbergia.glitch.me',    //
-  'https://eager-torch-cerise.glitch.me',    //
-  'https://held-valley-chevre.glitch.me',    //
-  'https://tested-sleet-moustache.glitch.me',    //
-  'https://comfortable-scratch-basil.glitch.me',    //
-  'https://keen-sepia-notify.glitch.me',    //
-  'https://temporal-longhaired-taxicab.glitch.me',
+  'https://irradiated-wary-clock.glitch.me',   //
+  'https://sophisticated-sticky-cross.glitch.me',    //
+  'https://pleasant-difficult-balmoral.glitch.me',    //
+  'https://working-roasted-feta.glitch.me',    //
+  'https://checkered-citrine-caution.glitch.me',    //
+  'https://insidious-steadfast-niece.glitch.me',    //
+  'https://artistic-trusting-lock.glitch.me',    //
+  'https://truthful-whimsical-trade.glitch.me',    //
+  'https://hickory-silver-starflower.glitch.me',    //
+  'https://cord-catnip-cheese.glitch.me',
   // ... 添加更多url
 ];
 
